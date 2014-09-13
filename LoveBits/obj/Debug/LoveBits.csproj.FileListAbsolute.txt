@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\LoveBits\bin\Debug\LoveBits.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\LoveBits\bin\Debug\LoveBits.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\LoveBits\bin\Debug\LoveBits.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\LoveBits\obj\Debug\LoveBits.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\LoveBits\obj\Debug\LoveBits.pdb

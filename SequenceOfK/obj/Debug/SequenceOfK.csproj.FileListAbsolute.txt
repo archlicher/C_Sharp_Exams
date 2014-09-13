@@ -1,0 +1,6 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SequenceOfK\bin\Debug\SequenceOfK.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SequenceOfK\bin\Debug\SequenceOfK.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SequenceOfK\bin\Debug\SequenceOfK.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SequenceOfK\obj\Debug\SequenceOfK.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SequenceOfK\obj\Debug\SequenceOfK.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SequenceOfK\obj\Debug\SequenceOfK.pdb

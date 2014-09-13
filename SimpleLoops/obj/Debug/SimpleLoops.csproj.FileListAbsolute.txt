@@ -1,0 +1,6 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleLoops\bin\Debug\SimpleLoops.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleLoops\bin\Debug\SimpleLoops.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleLoops\bin\Debug\SimpleLoops.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleLoops\obj\Debug\SimpleLoops.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleLoops\obj\Debug\SimpleLoops.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleLoops\obj\Debug\SimpleLoops.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BoxInBox\bin\Debug\BoxInBox.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BoxInBox\bin\Debug\BoxInBox.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BoxInBox\bin\Debug\BoxInBox.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BoxInBox\obj\Debug\BoxInBox.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BoxInBox\obj\Debug\BoxInBox.pdb

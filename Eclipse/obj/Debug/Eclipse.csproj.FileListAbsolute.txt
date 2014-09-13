@@ -1,0 +1,6 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Eclipse\bin\Debug\Eclipse.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Eclipse\bin\Debug\Eclipse.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Eclipse\bin\Debug\Eclipse.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Eclipse\obj\Debug\Eclipse.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Eclipse\obj\Debug\Eclipse.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Eclipse\obj\Debug\Eclipse.pdb

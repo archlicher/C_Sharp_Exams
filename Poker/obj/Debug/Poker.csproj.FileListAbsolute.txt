@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Poker\bin\Debug\Poker.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Poker\bin\Debug\Poker.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Poker\bin\Debug\Poker.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Poker\obj\Debug\Poker.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Poker\obj\Debug\Poker.pdb

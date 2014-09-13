@@ -1,0 +1,6 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitwiseOperators\bin\Debug\BitwiseOperators.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitwiseOperators\bin\Debug\BitwiseOperators.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitwiseOperators\bin\Debug\BitwiseOperators.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitwiseOperators\obj\Debug\BitwiseOperators.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitwiseOperators\obj\Debug\BitwiseOperators.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitwiseOperators\obj\Debug\BitwiseOperators.pdb

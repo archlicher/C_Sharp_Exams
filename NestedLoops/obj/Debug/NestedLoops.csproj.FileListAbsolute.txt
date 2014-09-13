@@ -1,0 +1,6 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\NestedLoops\bin\Debug\NestedLoops.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\NestedLoops\bin\Debug\NestedLoops.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\NestedLoops\bin\Debug\NestedLoops.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\NestedLoops\obj\Debug\NestedLoops.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\NestedLoops\obj\Debug\NestedLoops.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\NestedLoops\obj\Debug\NestedLoops.csprojResolveAssemblyReference.cache

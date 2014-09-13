@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\FirTree\bin\Debug\FirTree.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\FirTree\bin\Debug\FirTree.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\FirTree\bin\Debug\FirTree.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\FirTree\obj\Debug\FirTree.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\FirTree\obj\Debug\FirTree.pdb

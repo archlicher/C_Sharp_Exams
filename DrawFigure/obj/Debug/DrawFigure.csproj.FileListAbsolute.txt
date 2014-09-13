@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\DrawFigure\bin\Debug\DrawFigure.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\DrawFigure\bin\Debug\DrawFigure.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\DrawFigure\bin\Debug\DrawFigure.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\DrawFigure\obj\Debug\DrawFigure.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\DrawFigure\obj\Debug\DrawFigure.pdb

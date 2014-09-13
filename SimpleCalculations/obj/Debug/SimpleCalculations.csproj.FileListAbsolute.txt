@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleCalculations\bin\Debug\SimpleCalculations.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleCalculations\bin\Debug\SimpleCalculations.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleCalculations\bin\Debug\SimpleCalculations.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleCalculations\obj\Debug\SimpleCalculations.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\SimpleCalculations\obj\Debug\SimpleCalculations.pdb

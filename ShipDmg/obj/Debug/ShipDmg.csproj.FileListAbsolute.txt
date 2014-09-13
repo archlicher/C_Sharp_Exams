@@ -1,0 +1,6 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\ShipDmg\bin\Debug\ShipDmg.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\ShipDmg\bin\Debug\ShipDmg.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\ShipDmg\bin\Debug\ShipDmg.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\ShipDmg\obj\Debug\ShipDmg.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\ShipDmg\obj\Debug\ShipDmg.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\ShipDmg\obj\Debug\ShipDmg.pdb

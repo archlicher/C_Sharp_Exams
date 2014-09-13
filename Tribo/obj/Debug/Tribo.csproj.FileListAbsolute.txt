@@ -1,0 +1,6 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Tribo\bin\Debug\Tribo.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Tribo\bin\Debug\Tribo.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Tribo\bin\Debug\Tribo.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Tribo\obj\Debug\Tribo.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Tribo\obj\Debug\Tribo.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Tribo\obj\Debug\Tribo.pdb

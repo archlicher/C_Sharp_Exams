@@ -1,0 +1,6 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitFriends\bin\Debug\BitFriends.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitFriends\bin\Debug\BitFriends.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitFriends\bin\Debug\BitFriends.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitFriends\obj\Debug\BitFriends.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitFriends\obj\Debug\BitFriends.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\BitFriends\obj\Debug\BitFriends.csprojResolveAssemblyReference.cache

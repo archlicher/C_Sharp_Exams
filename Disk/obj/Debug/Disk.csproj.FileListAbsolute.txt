@@ -1,0 +1,6 @@
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Disk\bin\Debug\Disk.exe.config
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Disk\bin\Debug\Disk.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Disk\bin\Debug\Disk.pdb
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Disk\obj\Debug\Disk.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Disk\obj\Debug\Disk.exe
+D:\SoftUni\C# Basics course\Code\Exam1\Solution1\Disk\obj\Debug\Disk.pdb
